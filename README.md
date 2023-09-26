@@ -1,12 +1,12 @@
 # Algorithms-C
-This project aims to develop some of the more fundamental Data Structures and Algorithms in the C language.
+This project aims to develop some of the more fundamental Data Structures and Algorithms in the C language.  
 Suggestions, issues and recommendations are welcome.
 
-You can also find a more complete version of this project in:
+For a more practical implementation of this project in programs you can go to my [42 Common Core](https://github.com/MarioZurera/42/) project.  
+For consistency, this project is in *Libftv3*, library included in the C projects of the Common Core.
 
-https://github.com/MarioZurera/42/
 
-Inside the folder "libftv3", the thrid version of the Libft library for École 42.
+You can also check my [LeetCode](https://github.com/MarioZurera/LeetCode/) project for a solution using a different language to some of the algorithms present in this project. 
 
 ## Data Structures for this project
 Array  
