@@ -9,23 +9,23 @@ https://github.com/MarioZurera/42/
 Inside the folder "libftv3", the thrid version of the Libft library for École 42.
 
 ## Data Structures for this project
-Array
-List
-String
-Set
-Map
-Binary Tree
-Graph
+Array  
+List  
+String  
+Set  
+Map  
+Binary Tree  
+Graph  
 
 
 ## Algorithms for this project
 
 After develop the DS, you will find a folder "Algorithms" with some interesting problems solves from:
 
-LeetCode
-NeetCode
-CodingGame
-(more pages will be included when I discover them)
+LeetCode  
+NeetCode  
+CodingGame  
+(more pages will be included when I discover them)  
 
 
-Because abstraction is the way to go.
+**Because abstraction is the way to go.**
