@@ -1,12 +1,12 @@
 # Algorithms-C
 This project aims to develop some of the more fundamental Data Structures and Algorithms in the C language.
-Suggestions, issues and recommendations.
+Suggestions, issues and recommendations are welcome.
 
 You can also find a more complete version of this project in:
 
 https://github.com/MarioZurera/42/
 
-Inside the folder "libftv3", the thrid version of the Libft library for École 42.
+Inside the folder "libftv3", the thrid version of the Libft library for Ã‰cole 42.
 
 ## Data Structures for this project
 Array  
